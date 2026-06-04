@@ -1,0 +1,44 @@
+{
+  "version": "2.0",
+  "profile": {
+    "name": "auto_skill_point",
+    "description": "Auto skill point farming - Check Screen -> Autoshow -> Hold W to drive",
+    "author": "FEAR",
+    "created": "2026-01-15",
+    "updated": "2026-01-15",
+    "game": "Forza Horizon 6"
+  },
+  "statistics": {
+    "total_steps": 3,
+    "total_presses": 4,
+    "total_wait_time": 47.0,
+    "estimated_time_minutes": 0.78
+  },
+  "settings": {
+    "key_delay": 0.03,
+    "default_repeat": 1
+  },
+  "actions": [
+    {
+      "key": "x",
+      "wait": 2.0,
+      "description": "Check Screen",
+      "repeat": 1,
+      "hold": false
+    },
+    {
+      "key": "enter",
+      "wait": 10.0,
+      "description": "Start Race",
+      "repeat": 2,
+      "hold": false
+    },
+    {
+      "key": "w",
+      "wait": 25.0,
+      "description": "Lái Xe",
+      "repeat": 1,
+      "hold": true
+    }
+  ]
+}

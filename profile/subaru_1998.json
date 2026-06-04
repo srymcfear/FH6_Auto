@@ -1,0 +1,442 @@
+{
+    "version": "2.0",
+    "profile": {
+        "name": "subaru_1998",
+        "description": "AutoBuy & Upgrade Subaru 1998",
+        "author": "FEΔR",
+        "created": "2026-06-04 11:59:04",
+        "updated": "2026-06-04 11:59:04"
+    },
+    "statistics": {
+        "total_steps": 60,
+        "total_presses": 62,
+        "total_wait_time": 126.60000000000001,
+        "estimated_time_minutes": 2.1100000000000003
+    },
+    "settings": {
+        "key_delay": 0.03,
+        "default_repeat": 1
+    },
+    "actions": [
+        {
+            "key": "left",
+            "wait": 2.0,
+            "description": "Check Screen",
+            "original_repeat": 2,
+            "repeat": 2
+        },
+        {
+            "key": "right",
+            "wait": 1.0,
+            "description": "Buy & Sell",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "enter",
+            "wait": 10.0,
+            "description": "Autoshow",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "backspace",
+            "wait": 5.0,
+            "description": "Manufacturer",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 0.3,
+            "description": "AMG",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 0.3,
+            "description": "AUSTIN",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 0.3,
+            "description": "BMW",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 0.3,
+            "description": "Chevrolet",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 0.3,
+            "description": "DODGE",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 0.3,
+            "description": "GMC",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 0.3,
+            "description": "HOLDEN",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 0.3,
+            "description": "JAGUAR",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 0.3,
+            "description": "KTM",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 0.3,
+            "description": "LEXUS",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 0.3,
+            "description": "MAZDA",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 0.3,
+            "description": "MEYERS",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 0.3,
+            "description": "NISSAN",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 0.3,
+            "description": "PEEL",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 0.3,
+            "description": "POLARIS",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 0.3,
+            "description": "RAM",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 0.3,
+            "description": "RJ ANDERSON",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 0.3,
+            "description": "[SUBARU]",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "enter",
+            "wait": 3.0,
+            "description": "2022",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "right",
+            "wait": 1.0,
+            "description": "2013",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "right",
+            "wait": 1.0,
+            "description": "2005",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "right",
+            "wait": 1.0,
+            "description": "[1998]",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "enter",
+            "wait": 7.0,
+            "description": "Load design ...",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 3.0,
+            "description": "TOP REPLICA(design)",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "enter",
+            "wait": 12.0,
+            "description": "Download Design ...",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "enter",
+            "wait": 3.0,
+            "description": "Buy",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "enter",
+            "wait": 15.0,
+            "description": "Buy Car",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "esc",
+            "wait": 8.0,
+            "description": "Back Buy&Sell",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "left",
+            "wait": 4.5,
+            "description": "Check Screen",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "right",
+            "wait": 1.5,
+            "description": "Buy&Sell",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "right",
+            "wait": 1.0,
+            "description": "CARS",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 2.0,
+            "description": "Upgrades& Tuning",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "enter",
+            "wait": 1.5,
+            "description": "Upgrades",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 1.2,
+            "description": "Auto Upgrade",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 1.0,
+            "description": "Upgrade Presets",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 1.0,
+            "description": "Custom Tuning",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 1.0,
+            "description": "My Tuning Setups",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 1.0,
+            "description": "Find Tuning Setups",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 1.0,
+            "description": "Followed Players",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "down",
+            "wait": 1.0,
+            "description": "[Car Mastery]",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "enter",
+            "wait": 1.0,
+            "description": "Car Mastery",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "enter",
+            "wait": 3.0,
+            "description": "Unlock Head-Turner",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "right",
+            "wait": 1.0,
+            "description": "Next",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "enter",
+            "wait": 1.5,
+            "description": "Unlock Table Flip",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "up",
+            "wait": 1.0,
+            "description": "Next",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "enter",
+            "wait": 1.5,
+            "description": "Unlock Smash 'N' Dash",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "up",
+            "wait": 1.0,
+            "description": "Next",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "enter",
+            "wait": 1.5,
+            "description": "Unlock Where The Fun",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "up",
+            "wait": 1.0,
+            "description": "Next",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "enter",
+            "wait": 1.0,
+            "description": "Unlock Legend Of Rally",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "left",
+            "wait": 1.0,
+            "description": "Next",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "enter",
+            "wait": 2.0,
+            "description": "Unlock Spinball Wizard",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "esc",
+            "wait": 3.0,
+            "description": "Back Upgrades",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "esc",
+            "wait": 5.0,
+            "description": "Back CARS",
+            "original_repeat": 1,
+            "repeat": 1
+        },
+        {
+            "key": "left",
+            "wait": 2.0,
+            "description": "Check Screen",
+            "original_repeat": 2,
+            "repeat": 2
+        },
+        {
+            "key": "left",
+            "wait": 1.0,
+            "description": "Check Screen",
+            "original_repeat": 1,
+            "repeat": 1
+        }
+    ]
+}
