@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "profile": {
-    "name": "auto_skill_point",
+    "name": "autoskillpoint",
     "description": "Auto skill point farming - Check Screen -> Autoshow -> Hold W to drive",
     "author": "FEAR",
     "created": "2026-01-15",
