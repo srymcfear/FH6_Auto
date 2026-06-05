@@ -2,7 +2,7 @@
   "version": "2.0",
   "profile": {
     "name": "autoskillpoint",
-    "description": "Auto skill point farming - Check Screen -> Autoshow -> Hold W to drive",
+    "description": "Auto skill point farming ",
     "author": "FEAR",
     "created": "2026-01-15",
     "updated": "2026-01-15",
@@ -21,7 +21,7 @@
   "actions": [
     {
       "key": "x",
-      "wait": 2.0,
+      "wait": 3.0,
       "description": "Check Screen",
       "repeat": 1,
       "hold": false
@@ -30,12 +30,19 @@
       "key": "enter",
       "wait": 10.0,
       "description": "Start Race",
-      "repeat": 2,
+      "repeat": 1,
+      "hold": false
+    },
+    {
+      "key": "enter",
+      "wait": 8.0,
+      "description": "Start Race",
+      "repeat": 1,
       "hold": false
     },
     {
       "key": "w",
-      "wait": 25.0,
+      "wait": 24.0,
       "description": "Lái Xe",
       "repeat": 1,
       "hold": true
